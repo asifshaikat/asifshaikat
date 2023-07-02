@@ -1,5 +1,4 @@
-<h1 align="center">Hello, I'm Asif Shaikat</h1>
-<h3 align="center">An Engineer from Bangladesh</h3>
+<h1 align="center">An Engineer from Bangladesh</h1>
 <img src="https://github.com/asifshaikat/asifshaikat/blob/main/download.png" alt="banner that says Asif shaikat - software developer, artist, designer">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifshaikat&label=Profile%20views&color=0e75b6&style=flat" alt="asifshaikat" /> </p>
